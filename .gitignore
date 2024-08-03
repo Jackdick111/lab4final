@@ -8,3 +8,9 @@ BUILD
 compile_commands.json
 .clangd
 .cache
+HTS221
+LIS3MDL
+LPS22HB
+LSM303AGR
+LSM6DSL
+VL53L0X

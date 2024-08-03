@@ -94,11 +94,7 @@ int main() {
 
 
 
-    // Buffer for incoming serial data
-
-    // Interrupt service routine for serial data reception
-   
-    // Attach the serial interrupt service routine
+  
     serial.attach(&on_serial_rx, SerialBase::RxIrq);
 
 // Main loop
